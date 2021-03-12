@@ -1,0 +1,2 @@
+import insta360_updated as insta
+insta.process('#Change me to path of video file#.mp4', '#Change me to path and name of file to store gyro data#.csv', True)
